@@ -1,1 +1,8 @@
-theme: jekyll-theme-leap-day
+title: TITAN SQUAD
+description: A turn-based superhero squad game.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+mac_url: https://drive.google.com/open?id=1yXfR3SHGZIU29JORwMwfWmHWDO7Ckv7H
+android_url: https://drive.google.com/open?id=1dAGlGwZuB9c-qw3UrbsvpRdoOPwGGQDe
+github_url: https://github.com/titansquad

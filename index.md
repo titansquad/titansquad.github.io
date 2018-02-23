@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/titansquad/titansquad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Titan Squad is currently in pre-Alpha!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Help us out by grabbing the latest build from the links to the left and dropping us a line at leveltwentystudios at gmail dot com.
 
-### Markdown
+General Game Info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Topic             | Value                             |
+|:------------------|:----------------------------------|
+| Engine            | Unity                             |
+| Current Platforms | PC, Mac, Android                  |
+| Planned Platforms | iOS, Linux, Web                   |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![](assets/images/concept-art.jpg)
+Powerhouse, Fighter, Speedster, Blaster, Mentalist
 
-- Bulleted
-- List
+![](assets/images/title.png)
+Title screen
 
-1. Numbered
-2. List
+![](assets/images/lobby.png)
+Lobby screen
 
-**Bold** and _Italic_ and `Code` text
+![](assets/images/maze.jpg)
+Barebones maze map
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/titansquad/titansquad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](assets/images/city.jpg)
+The first version of our city map
