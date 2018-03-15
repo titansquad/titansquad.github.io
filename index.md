@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![](assets/images/poster-big.jpg)
+Poster!
 
 Titan Squad is currently in pre-Alpha!
 
@@ -29,3 +31,4 @@ Barebones maze map
 
 ![](assets/images/city.jpg)
 The first version of our city map
+
