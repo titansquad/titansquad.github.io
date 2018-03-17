@@ -76,6 +76,12 @@ body {
   letter-spacing: -.05rem;
 }
 
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('assets/css/fontawesome.css');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
