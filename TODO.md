@@ -4,9 +4,9 @@
 - [ ] footer element functionality
     - [ ] gallery = home
     - [ ] trailer = load youtube vid on new page
-    - [ ] play now = webplayer
+    ~~- [ ] play now = webplayer~~
 - [ ] footer first row images
-- [ ] footer second row icons as fontawesome icons
+- [x] footer second row icons as fontawesome icons
 - [ ] get better carousel images
 - [ ] get better background image(s)
 - [ ] create devblog
