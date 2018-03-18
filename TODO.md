@@ -3,6 +3,8 @@
   - [ ] create devblog
   - [ ] create about us page
   - [ ] create contact us page
+      - [x] create mailchimp acct
+      - [ ] embed contact form
 - [ ] footer nav
   - [ ] align footer elements center
   - [ ] gallery links to default carousel
@@ -10,6 +12,8 @@
   - [ ] decide what to do with "play now"
   - [ ] footer first row images are images
   - [x] footer second row icons as fontawesome icons
+  - [ ] footer social media buttons work
+    - [ ] footer social media button accounts
 - [ ] general issues
   - [ ] get better screenshots for the carousel
   - [ ] get better background image(s)
