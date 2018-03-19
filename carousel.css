@@ -7,6 +7,7 @@ body {
   color: #fff;
   background-image: url('assets/img/poster-big.jpg');
   background-size: 50%;
+  background-color: orange;
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -14,14 +15,18 @@ body {
 
 /* Carousel base class */
 .carousel {
-  margin-top: 4rem;
-  margin-bottom: 1rem;
-  padding-left: 20%;
-  padding-right: 20%;
+ margin-top: 5%;
+  height: 100%;
 }
+.blackfill {
+  background-color: black;
+  width: auto;
+  margin-left: 20%;
+  margin-right: 20%;
 
+}
 .carousel-inner {
-  height: 30rem;
+  height: 85vh;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {

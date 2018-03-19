@@ -8,7 +8,7 @@
 - [ ] footer nav
   - [ ] align footer elements center
   - [ ] gallery links to default carousel
-  - [ ] trailer link loads youtube vid on new page 
+  - [ ] trailer link loads youtube vid on new page
   - [ ] decide what to do with "play now"
   - [ ] footer first row images are images
   - [x] footer second row icons as fontawesome icons
