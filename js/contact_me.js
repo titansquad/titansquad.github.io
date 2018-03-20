@@ -20,7 +20,7 @@ $(function() {
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({
-        url: "././mail/contact_me.php",
+        url: "#",
         type: "POST",
         data: {
           name: name,
@@ -42,6 +42,7 @@ $(function() {
           $('#contactForm').trigger("reset");
         },
         error: function() {
+          /*
           // Fail message
           $('#success').html("<div class='alert alert-danger'>");
           $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
@@ -50,6 +51,7 @@ $(function() {
           $('#success > .alert-danger').append('</div>');
           //clear all fields
           $('#contactForm').trigger("reset");
+          */
         },
         complete: function() {
           setTimeout(function() {

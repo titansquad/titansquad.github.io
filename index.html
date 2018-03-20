@@ -475,34 +475,6 @@
         </div>
       </div>
     </section-->
-    <div id="wufoo-z15jh0pc1cd0qsq">
-        Fill out my <a href="https://maxlevelmedia.wufoo.com/forms/z15jh0pc1cd0qsq">online form</a>.
-        </div>
-        <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">The easy to use <a href="http://www.wufoo.com/form-builder/">Wufoo form builder</a> helps you make forms easy, fast, and fun.</div>
-        <script type="text/javascript">var z15jh0pc1cd0qsq;(function(d, t) {
-        var s = d.createElement(t), options = {
-        'userName':'maxlevelmedia',
-        'formHash':'z15jh0pc1cd0qsq',
-        'autoResize':true,
-        'height':'517',
-        'async':true,
-        'host':'wufoo.com',
-        'header':'show',
-        'ssl':true};
-        s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-        s.onload = s.onreadystatechange = function() {
-        var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-        try { z15jh0pc1cd0qsq = new WufooForm();z15jh0pc1cd0qsq.initialize(options);z15jh0pc1cd0qsq.display(); } catch (e) {}};
-        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-        })(document, 'script');</script>
-
-
-<form action="https://formspree.io/wearemaxlevelmedia@gmail.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
     <!-- Contact -->
     <section id="contact">
       <div class="container">
@@ -514,7 +486,7 @@
         </div>
         <div class="row">
           <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate>
+            <form id="contactForm" name="sentMessage" action="https://formspree.io/wearemaxlevelmedia@gmail.com" method="POST" novalidate>
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
@@ -803,7 +775,6 @@
 
     <!-- Contact form JavaScript -->
     <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
     <script src="js/agency.min.js"></script>
