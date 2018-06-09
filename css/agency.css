@@ -605,6 +605,19 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
+
+.invert {
+  background-color: black;
+  color: white;
+}
+
+section {
+  background-image: url("../img/orange-bg.png");
+}
+section# {
+  background-image: url("../img/orange-bg.png");
+}
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
@@ -676,10 +689,6 @@ footer span.copyright {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-section {
-  background-color: black;
-  color: white;
-}
 
 footer ul.quicklinks {
   font-size: 90%;
