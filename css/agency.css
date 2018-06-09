@@ -340,7 +340,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content {
-  padding: 100px 0;
+  padding: 10px 0;
   text-align: center;
 }
 
@@ -644,6 +644,7 @@ header.masthead .intro-text .intro-heading {
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
+  position: relative;
 }
 
 section, footer {
