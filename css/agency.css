@@ -99,6 +99,7 @@ img::-moz-selection {
 .logo {
   margin-top: -20%;
   width: 50%;
+  position: relative;
 }
 #mainNav {
   background-color: #212529;
@@ -172,7 +173,7 @@ img::-moz-selection {
   left: 0px;
   top: 0px;
   height: 100%;
-  max-width: 30%;
+  max-width: 50%;
 }
 
 #chars-right {
@@ -180,8 +181,9 @@ img::-moz-selection {
   right: 0px;
   top: 0px;
   height: 100%;
-  max-width: 30%;
+  max-width: 50%;
 }
+
 header.masthead {
   text-align: center;
   color: white;
